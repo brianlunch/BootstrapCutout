@@ -16,6 +16,17 @@
     border-top: 1px dashed black;
 }
 
+.btn-pill{
+    margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
 @page {
     size: auto;
+  }
+
+  .navbar-nav > li{
+    margin-left:30px;
+    margin-right:30px;
   }

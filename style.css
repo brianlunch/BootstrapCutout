@@ -1,0 +1,17 @@
+.text {
+    background-color:rgb(185, 185, 185, .6);
+    color: rgb(185, 185, 185, .6);
+}
+
+
+.border1{
+    border: 1px dashed black;
+    padding-left:.7%;
+    padding-right:.7%;
+    padding-top:.5%;
+    
+}
+
+.border2{
+    border-top: 1px dashed black;
+}

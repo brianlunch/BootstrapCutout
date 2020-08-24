@@ -1,6 +1,6 @@
 .text {
-    background-color:rgb(185, 185, 185, .6);
-    color: rgb(185, 185, 185, .33) !important;
+    background-color:rgba(255, 255, 255, 0.6);
+    color: rgb(185, 185, 185, .01) !important;
 }
 
 

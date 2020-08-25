@@ -40,6 +40,15 @@
   border-radius: 16px;
 }
 
+.radioDiv{
+margin-left:0.5%;
+border-top: 1px dashed black;
+border-right: 1px dashed black;
+border-bottom: 1px dashed black;
+padding-left: 50%;
+padding-top:4.5%;
+}
+
 @page {
     size: auto;
   }
